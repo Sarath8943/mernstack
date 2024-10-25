@@ -22,7 +22,7 @@ app.get("/", (req, res) => {
 
 app.use(
   cors({
-    origin: "https://todo-app-amber-six-40.vercel.app/",
+    origin: "https://mernstack-omega.vercel.app/",
     optionsSuccessStatus: 200,
   })
 );
